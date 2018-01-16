@@ -1,3 +1,8 @@
+commit d65a308dfa6391ae5e2638e46e7423b557e55bfc
+Author: johnnason <john.nason@gmail.com>
+Date:   Tue Jan 16 09:46:23 2018 -0500
+
+    attempt task paramaterization for config
 commit 842cb281ffa3c5ceba7453a0e80b2569218b086f
 Author: johnnason <john.nason@gmail.com>
 Date:   Tue Jan 16 09:37:59 2018 -0500
