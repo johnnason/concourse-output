@@ -1,3 +1,11 @@
+commit adb90756e2805b7ecf2ff7317f66230688b6c62c
+Merge: 6b28fed 504881d
+Author: johnnason <john.nason@gmail.com>
+Date:   Tue Jan 16 10:24:59 2018 -0500
+
+    Merge pull request #4 from johnnason/refactor_task_scripts
+    
+    refactor last-commit
 commit d65a308dfa6391ae5e2638e46e7423b557e55bfc
 Author: johnnason <john.nason@gmail.com>
 Date:   Tue Jan 16 09:46:23 2018 -0500
